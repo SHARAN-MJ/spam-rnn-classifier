@@ -71,9 +71,12 @@ The dataset used is spam.csv, containing SMS text messages labeled as:
 ✏️ About
 This project was created by SHARAN MJ as part of an RNN classifier demo, following faculty project guidelines.
 
-## Feel free to fork, explore, and improve!
+## Result
 
-yaml
+<img width="1920" height="1080" alt="Screenshot 2025-08-01 144651" src="https://github.com/user-attachments/assets/25f90b14-46f0-43d2-85e7-e50b4b2d8547" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-01 144622" src="https://github.com/user-attachments/assets/8920a51f-f402-419d-8c78-c42a2af065d4" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-01 144708" src="https://github.com/user-attachments/assets/7bd9fe16-b725-4d38-8123-a963a39b4c14" />
+
 
 ---
 

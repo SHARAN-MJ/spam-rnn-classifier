@@ -45,19 +45,19 @@ streamlit run main.py
 ## Dependencies
 tensorflow==2.15.0
 
-*pandas
+* pandas
 
-*numpy
+* numpy
 
-*scikit-learn
+* scikit-learn
 
-*tensorboard
+* tensorboard
 
-*matplotlib
+* matplotlib
 
-*streamlit
+* streamlit
 
-*scikeras
+* scikeras
 
 (All listed in requirements.txt)
 
